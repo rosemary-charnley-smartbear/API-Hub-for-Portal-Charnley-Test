@@ -1,0 +1,30 @@
+{
+    "productMetadata": {
+        "description": "This product is used for demoing the capabilities of hydrating a API Hub Portal from a GitHub repository.",
+        "slug": "demo-automation-prod",
+        "public": true,
+        "hidden": false,
+        "logo": "",
+        "logoDark": "",
+        "autoPublish": true,
+        "validateAPIs": true
+    },
+    "contentMetadata": [
+        {
+            "order": 0,
+            "parent": "",
+            "name": "Weclome",
+            "slug": "welcome",
+            "type": "markdown",
+            "contentUrl": "Welcome.md"
+        },
+        {
+            "order": 1,
+            "parent": "",
+            "name": "Getting Started",
+            "slug": "getting-started",
+            "type": "markdown",
+            "contentUrl": "Getting-Started.md"
+        }
+    ]
+}
