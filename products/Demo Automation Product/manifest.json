@@ -25,6 +25,14 @@
             "slug": "getting-started",
             "type": "markdown",
             "contentUrl": "Getting-Started.md"
+        },
+        {
+            "order": 2,
+            "parent": "",
+            "name": "Customer Support",
+            "slug": "customer-support",
+            "type": "markdown",
+            "contentUrl": "Customer-Support.md"
         }
     ]
 }
