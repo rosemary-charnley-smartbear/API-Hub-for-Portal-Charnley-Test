@@ -11,6 +11,8 @@
 *.sln.docstates
 
 .env 
+.github/workflows/docs-as-code-cron.yaml
+.github/workflows/dosc-as-code-pr-commit-validation.yaml
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
